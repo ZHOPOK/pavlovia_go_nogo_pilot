@@ -1,0 +1,8 @@
+"trial_type","trial_index","time_elapsed","internal_node_id","task_version","success","view_history","rt","responses","num_errors"
+"pavlovia","0","2","0.0-0.0","battery-v0.2","","","","",""
+"fullscreen","1","2456","0.0-1.0","battery-v0.2","true","","","",""
+"pit-instructions","2","4880","0.0-2.0-0.0","battery-v0.2","","[{""page_index"":0,""viewing_time"":2422}]","2422","",""
+"pit-comprehension","3","7153","0.0-2.0-1.0-0.0","battery-v0.2","","","2180.000000000001","[""shark""]","0"
+"pit-instructions","4","7941","0.0-2.0-1.0-1.0","battery-v0.2","","[{""page_index"":0,""viewing_time"":784.9999999999991}]","784.9999999999991","",""
+"pit-comprehension","5","10618","0.0-2.0-2.0-0.0","battery-v0.2","","","2674","[""tiger""]","0"
+"pit-instructions","6","12120","0.0-2.0-2.0-1.0","battery-v0.2","","[{""page_index"":0,""viewing_time"":1495.9999999999982}]","1495.9999999999982","",""

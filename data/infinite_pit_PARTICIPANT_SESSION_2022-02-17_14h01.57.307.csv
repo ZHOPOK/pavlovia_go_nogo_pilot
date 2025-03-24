@@ -1,0 +1,4 @@
+"trial_type","trial_index","time_elapsed","internal_node_id","task_version","responses","num_errors","rt","view_history"
+"pavlovia","0","4","0.0-0.0","battery-v0.2","","","",""
+"pit-comprehension","1","4470","0.0-1.0-0.0-0.0","battery-v0.2","[""ENTER""]","1","4462.200000047684",""
+"pit-instructions","2","9153","0.0-1.0-0.0-1.0","battery-v0.2","","","4681.400000095367","[{""page_index"":0,""viewing_time"":4680.800000190735}]"

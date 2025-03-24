@@ -1,0 +1,8 @@
+"trial_type","trial_index","time_elapsed","internal_node_id","task_version","success","view_history","rt","rune","rune_set","hex","correct","choice","accuracy","outcome","keys","total_keys","block","practice","subject","participantId"
+"pavlovia","0","10","0.0-0.0","battery-v0.2","","","","","","","","","","","","","","","",""
+"fullscreen","1","1842","0.0-1.0","battery-v0.2","true","","","","","","","","","","","","","","",""
+"pit-instructions","2","40904","0.0-2.0-0.0","battery-v0.2","","[{""page_index"":0,""viewing_time"":1162},{""page_index"":1,""viewing_time"":3840.599999964237},{""page_index"":2,""viewing_time"":23137.700000047684},{""page_index"":3,""viewing_time"":5590.899999976158},{""page_index"":4,""viewing_time"":2564.300000011921},{""page_index"":5,""viewing_time"":2760.599999964237}]","39057.5","","","","","","","","","","","","",""
+"pit-trial","3","44935","0.0-2.0-1.0-0.0","battery-v0.2","","","358","&#9784;","elianto","#FFFFF080","32","32","1","+10","1209.6000000238419","1","0","0","4ee95e0e8737a0304baac70a&order=1&STUDY_ID=61caf85b4892b889f6411591","999"
+"pit-trial","4","50869","0.0-2.0-1.1-0.1","battery-v0.2","","","-1","&#9784;","elianto","#FFFFF080","32","-1","0","0","","0","0","0","4ee95e0e8737a0304baac70a&order=1&STUDY_ID=61caf85b4892b889f6411591","999"
+"pit-trial","5","56869","0.0-2.0-1.2-0.2","battery-v0.2","","","-1","&#9784;","elianto","#FFFFF080","32","-1","0","0","","0","0","0","4ee95e0e8737a0304baac70a&order=1&STUDY_ID=61caf85b4892b889f6411591","999"
+"pit-trial","6","61756","0.0-2.0-1.3-0.3","battery-v0.2","","","-1","&#9784;","elianto","#FFFFF080","32","-1","0","0","","0","0","0","4ee95e0e8737a0304baac70a&order=1&STUDY_ID=61caf85b4892b889f6411591","999"

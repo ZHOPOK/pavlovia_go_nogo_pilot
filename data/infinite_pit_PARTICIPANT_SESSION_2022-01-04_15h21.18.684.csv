@@ -1,0 +1,7 @@
+"trial_type","trial_index","time_elapsed","internal_node_id","task_version","rune","rune_set","hex","correct","choice","rt","accuracy","outcome","keys","total_keys","sub","block","trial","stimulus","robot","valence","action","sham"
+"pavlovia","0","11","0.0-0.0","battery-v0.2","","","","","","","","","","","","","","","","","",""
+"pit-trial","1","4518","0.0-1.0","battery-v0.2","J","elianto","#f73b6a7A","32","-1","-1","0","-10","","0","4ee95e0e8737a0304baac70a&order=1&STUDY_ID=61caf85b4892b889f6411591","3","256","10","3","lose","go","0"
+"pit-trial","2","7076","0.0-2.0","battery-v0.2","K","elianto","#3366ff99","32","32","52.100000001490116","1","0","552.1999999992549","1","4ee95e0e8737a0304baac70a&order=1&STUDY_ID=61caf85b4892b889f6411591","3","257","8","1","win","go","1"
+"pit-trial","3","11585","0.0-3.0","battery-v0.2","V","elianto","#f73b6a7A","-1","-1","-1","1","-10","","0","4ee95e0e8737a0304baac70a&order=1&STUDY_ID=61caf85b4892b889f6411591","3","258","11","4","lose","no-go","1"
+"pit-trial","4","16097","0.0-4.0","battery-v0.2","J","elianto","#f73b6a7A","32","-1","-1","0","-10","3355.900000002235","1","4ee95e0e8737a0304baac70a&order=1&STUDY_ID=61caf85b4892b889f6411591","3","259","10","3","lose","go","0"
+"pit-trial","5","18713","0.0-5.0","battery-v0.2","D","elianto","#3366ff99","-1","32","107","0","0","607","1","4ee95e0e8737a0304baac70a&order=1&STUDY_ID=61caf85b4892b889f6411591","3","260","9","2","win","no-go","0"

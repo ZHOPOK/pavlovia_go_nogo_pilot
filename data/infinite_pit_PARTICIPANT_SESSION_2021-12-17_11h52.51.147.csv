@@ -1,0 +1,7 @@
+"trial_type","trial_index","time_elapsed","internal_node_id","task_version","rune","rune_set","hex","correct","choice","rt","accuracy","outcome","keys","total_keys","sub","block","trial","stimulus","robot","valence","action","sham"
+"pavlovia","0","34","0.0-0.0","battery-v0.2","","","","","","","","","","","","","","","","","",""
+"pit-trial","1","4542","0.0-1.0","battery-v0.2","H","elianto","#f73b6a7A","-1","-1","-1","1","0","","0","5ee95e0e8737a0304baac70a&order=2","3","256","8","4","lose","no-go","0"
+"pit-trial","2","9051","0.0-2.0","battery-v0.2","M","elianto","#3366ff99","32","-1","-1","0","0","","0","5ee95e0e8737a0304baac70a&order=2","3","257","11","1","win","go","0"
+"pit-trial","3","13557","0.0-3.0","battery-v0.2","H","elianto","#f73b6a7A","-1","-1","-1","1","0","","0","5ee95e0e8737a0304baac70a&order=2","3","258","8","4","lose","no-go","0"
+"pit-trial","4","18066","0.0-4.0","battery-v0.2","Y","elianto","#3366ff99","32","-1","-1","0","0","","0","5ee95e0e8737a0304baac70a&order=2","3","259","9","1","win","go","0"
+"pit-trial","5","22576","0.0-5.0","battery-v0.2","R","elianto","#f73b6a7A","32","-1","-1","0","-10","","0","5ee95e0e8737a0304baac70a&order=2","3","260","10","3","lose","go","0"

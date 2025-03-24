@@ -1,0 +1,6 @@
+"trial_type","trial_index","time_elapsed","internal_node_id","task_version","responses","num_errors","rt","view_history","rune","rune_set","hex","correct","choice","accuracy","outcome","keys","total_keys","sub","block","trial","stimulus","robot","valence","action","sham"
+"pavlovia","0","7","0.0-0.0","battery-v0.2","","","","","","","","","","","","","","","","","","","","",""
+"pit-comprehension","1","8674","0.0-1.0-0.0","battery-v0.2","Press SPACE,+10,-1,True,True,True","2","8664.900000002235","","","","","","","","","","","","","","","","","",""
+"pit-instructions","2","12907","0.0-2.0","battery-v0.2","","","4230.39999999851","[{""page_index"":0,""viewing_time"":2752.5},{""page_index"":1,""viewing_time"":1032.5},{""page_index"":2,""viewing_time"":443.79999999701977}]","","","","","","","","","","","","","","","","",""
+"pit-trial","3","15416","0.0-3.0","battery-v0.2","","","-1","","&#9733;","elianto","#3366ff99","-1","-1","1","+10","","0","test","1","1","2","2","win","no-go","0"
+"pit-trial","4","17920","0.0-4.0","battery-v0.2","","","-1","","&#9728;","elianto","#f73b6a7A","-1","-1","1","0","","0","test","1","2","0","4","lose","no-go","0"

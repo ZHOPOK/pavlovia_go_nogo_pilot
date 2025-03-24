@@ -1,0 +1,6 @@
+"trial_type","trial_index","time_elapsed","internal_node_id","task_version","responses","num_errors","rt","view_history","rune","rune_set","hex","correct","choice","accuracy","outcome","keys","total_keys","sub","block","trial","stimulus","robot","valence","action","sham"
+"pavlovia","0","7","0.0-0.0","battery-v0.2","","","","","","","","","","","","","","","","","","","","",""
+"pit-comprehension","1","9211","0.0-1.0-0.0","battery-v0.2","Press ENTER,0,0,False,False, somtimes you will not get all the points even if you took the right action,False","6","9200.10000000149","","","","","","","","","","","","","","","","","",""
+"pit-instructions","2","11537","0.0-2.0","battery-v0.2","","","2320.400000002235","[{""page_index"":0,""viewing_time"":1424.1000000014901},{""page_index"":1,""viewing_time"":515.3000000007451},{""page_index"":2,""viewing_time"":380.19999999925494}]","","","","","","","","","","","","","","","","",""
+"pit-trial","3","13815","0.0-3.0","battery-v0.2","","","270.3999999985099","","&#9730;","elianto","#3366ff99","32","32","1","+10","1770.3999999985099","1","test","1","1","1","1","win","go","0"
+"pit-trial","4","16319","0.0-4.0","battery-v0.2","","","-1","","&#9752;","elianto","#f73b6a7A","32","-1","0","-10","2215.199999999255","1","test","1","2","3","3","lose","go","0"
